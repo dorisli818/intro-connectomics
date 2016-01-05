@@ -3,27 +3,29 @@
 | 2            | 1/5  | Sporns       | The human connectome: a structural description of the human brain                          | Alex Sharata       |
 | 2            | 1/5  | Morgan       | Why Not Connectomics                                                                       | Kevin Peng         |
 | 2            | 1/5  | Fino         | Dense Inhibitory Connectivity in Neocortex                                                 | Monica Rodriguez                   |
+| 2            | 1/5  | Helmstaedter | Cellular-resolution connectomics: Challenges of Dense Neural Circuit Reconstruction        |                    |
 | 3            | 1/7  | Bock         | Network anatomy and in vivo physiology of visual cortical neurons                          | Eric Huang         |
 | 3            | 1/7  | Takemura     | A visual motion detection circuit suggested by Drosophila connectomics                     | Matt Saltzman                   |
 | 3            | 1/7  | Gray Roncal  | An Automated Images-to-Graphs Pipeline for High Resolution Connectomics                    | Brandon Duderstadt |
 | 3            | 1/7  | Kaynig       | Large-Scale Automatic Reconstruction of Neuronal Processes from Electron Microscopy Images |                    |
-| 4            | 1/11  | Helmstaedter | Cellular-resolution connectomics: Challenges of Dense Neural Circuit Reconstruction        |                    |
 | 4            | 1/11 |              |                                                                                            |                    |
 | 4            | 1/11 |              |                                                                                            |                    |
+| 4            | 1/11 |              |                                                                                            |                    |
+| 5            | 1/12 | Pfister      | Visualization in Connectomics                                                              | Dalia Rohm         |
+| 5            | 1/12 | Collman      | Mapping Synapses by Conjugate Light-Electron Array Tomography                              | Eileen Xeo         |
 | 5            | 1/12 |              |                                                                                            |                    |
-| 5            | 1/12 |              |                                                                                            |                    |
-| 5            | 1/12 |              |                                                                                            |                    |
 | 6            | 1/14 |              |                                                                                            |                    |
 | 6            | 1/14 |              |                                                                                            |                    |
 | 6            | 1/14 |              |                                                                                            |                    |
-| 6            | 1/14 |              |                                                                                            |                    |
-| 7            |      |              |                                                                                            |                    |
-| 7            |      |              |                                                                                            |                    |
-| 7            |      |              |                                                                                            |                    |
-| 7            |      |              |                                                                                            |                    |
-| 8            |      |              |                                                                                            |                    |
-| 8            |      |              |                                                                                            |                    |
-| 8            |      |              |                                                                                            |                    |
-| 9            |      |              |                                                                                            |                    |
-| 9            |      |              |                                                                                            |                    |
-| 9            |      |              |                                                                                            |                    |
+| 6            | 1/14 | Deisseroth   | Clarity for mapping the nervous system                                                     | Daniel Lopez       |
+| 7            | 1/19 | Helmstaedter | Connectomic reconstruction of the inner plexiform layer in the mouse retina                | Katie Link         |
+| 7            | 1/19 | Breiman      | Random Forests                                                                             | Jizhou Xu          |
+| 7            | 1/19 |              |                                                                                            |                    |
+| 7            | 1/19 |              |                                                                                            |                    |
+| 8            | 1/20 |              |                                                                                            |                    |
+| 8            | 1/20 |              |                                                                                            |                    |
+| 8            | 1/20 |              |                                                                                            |                    |
+| 9            | 1/21 |              |                                                                                            |                    |
+| 9            | 1/21 |              |                                                                                            |                    |
+| 9            | 1/21 |              |                                                                                            |                    |
+| 9            | 1/21 |              |                                                                                            |                    |
