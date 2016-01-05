@@ -1,7 +1,7 @@
 # intro-connectomics
 
 ### Class Links
-- [Paper Signup](https://github.com/willgray/intro-connectomics/blob/master/paper_signup.md)
+- [Paper Signup](.//paper_signup.md)
 - [Paper List](https://www.mendeley.com/groups/6030451/2015-connectomics-papers/papers/)
 - [Intro Survey](http://goo.gl/forms/7KuR88DWqo)
 - [Paper Presntation Feedback](http://goo.gl/forms/DoW7iariWN)
