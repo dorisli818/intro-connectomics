@@ -16,7 +16,7 @@
 | 5            | 1/12 |              |                                                                                            |                    |
 | 6            | 1/14 | Hinton       | A fast learning algoirthm for deep belief nets                                             | Elizabeth Morgan   |
 | 6            | 1/14 | Mountcastle  | Introduction                                                                               | Adam Chang         |
-| 6            | 1/14 |              |                                                                                            |                    |
+| 6            | 1/14 | Burns        | from Cosmos to connectomes The evolution of data-intensive science                         | Ryan Marren        |
 | 6            | 1/14 | Deisseroth   | Clarity for mapping the nervous system                                                     | Daniel Lopez       |
 | 7            | 1/19 | Helmstaedter | Connectomic reconstruction of the inner plexiform layer in the mouse retina                | Katie Link         |
 | 7            | 1/19 | Breiman      | Random Forests                                                                             | Jizhou Xu          |
