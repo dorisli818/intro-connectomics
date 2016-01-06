@@ -13,7 +13,7 @@
 | 4            | 1/11 |              |                                                                                            |                    |
 | 5            | 1/12 | Pfister      | Visualization in Connectomics                                                              | Dalia Rohm         |
 | 5            | 1/12 | Collman      | Mapping Synapses by Conjugate Light-Electron Array Tomography                              | Eileen Xeo         |
-| 5            | 1/12 |              |                                                                                            |                    |
+| 5            | 1/12 | Xia          | BrainNet Viewer: A Network Visualization Tool for Human Brain Connectomics                 | Augusto Ramirez    |
 | 6            | 1/14 | Hinton       | A fast learning algoirthm for deep belief nets                                             | Elizabeth Morgan   |
 | 6            | 1/14 | Mountcastle  | Introduction                                                                               | Adam Chang         |
 | 6            | 1/14 | Burns        | from Cosmos to connectomes The evolution of data-intensive science                         | Ryan Marren        |
@@ -22,7 +22,7 @@
 | 7            | 1/19 | Breiman      | Random Forests                                                                             | Jizhou Xu          |
 | 7            | 1/19 |              |                                                                                            |                    |
 | 7            | 1/19 |              |                                                                                            |                    |
-| 8            | 1/20 |              |                                                                                            |                    |
+| 8            | 1/20 | Mishenko     | Ultrastructural Analysis of Hippocampal Neuropil from the Connectomics Perspective         | Thomas Keady       |
 | 8            | 1/20 |              |                                                                                            |                    |
 | 8            | 1/20 |              |                                                                                            |                    |
 | 9            | 1/21 |              |                                                                                            |                    |
