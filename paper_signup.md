@@ -10,7 +10,7 @@
 | 3            | 1/7  | Kaynig       | Large-Scale Automatic Reconstruction of Neuronal Processes from Electron Microscopy Images |                    |
 | 4            | 1/11 | Bogovic      | Learned versus hand-designed feature representations for 3d agglomeration                  | Mary Yen           |
 | 4            | 1/11 | Plaza        | Focused Proofreading Efficiently ectracting connectomes from segmented EM Images           | Sandra Weiss       |
-| 4            | 1/11 |              |                                                                                            |                    |
+| 4            | 1/11 |              |                                                                                            | Zhou Li            |            Three-dimensional tracking of axonal projections in the brain by magnetic resonance imaging
 | 5            | 1/12 | Pfister      | Visualization in Connectomics                                                              | Dalia Rohm         |
 | 5            | 1/12 | Collman      | Mapping Synapses by Conjugate Light-Electron Array Tomography                              | Eileen Xeo         |
 | 5            | 1/12 | Xia          | BrainNet Viewer: A Network Visualization Tool for Human Brain Connectomics                 | Augusto Ramirez    |
